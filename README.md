@@ -1,2 +1,2 @@
 # Curso_UFRGS_teste2
-novo repositório teste
+novo repositório teste2
