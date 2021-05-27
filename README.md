@@ -1,8 +1,8 @@
 # Curso_UFRGS_teste2
-novo repositório teste2
+Bem vindo ao meu site!
 
 
-*texto*
+*palavras em itálico*
 
 
-**teste negrito**
+**teste em negrito**
