@@ -26,7 +26,7 @@ ref:https://www.wikiaves.com.br/wiki/pardal
 ![raa](https://user-images.githubusercontent.com/84736761/119882851-421ef980-bf05-11eb-935d-886c9c7782b5.png)
 
 
-A RÃ-Touro (Lithobates catesbeianus) é nativa
+A RÃ-Touro (*Lithobates catesbeianus*) é nativa
 da América do norte, foi introduzida no Brasil
 no ano de 1935, para criação animal e escapou
 para os ambientes naturais.¹
