@@ -9,6 +9,7 @@ ATIVIDADES DESENVOLVIDAS:
 No desenvolvimento do trabalho foi feita uma revisão bibliográfica, em artigos e banco de dados online sobre registros de ocorrências das espécies exóticas de peixes em ambientes continentais, no estado do Rio Grande do Sul. Os registros foram georreferenciados no programa Arcgis, e foi visto a ocorrência dos registros em dentro das Unidades de Conservação do Rio Grande do Sul e ao entorno das Unidades de Conservação através de buffers de 10 km. As ocorrências dos peixes exóticos  foram georreferencias  verificada sua distribuição nas ecorregiões aquática do RS.
 
 Os resultados foram submetidos e apresentados no evento intitulado: “XI Seminário de Pesquisa e XII Encontro de Iniciação Científica do ICMBio” o trabalho recebeu destaque pelo evento, onde ficou entre os TOP 10 trabalhos com mais interações. Dsponível em: https://youtu.be/h5L28K8Gnbc
+
 Os resultados foram submetidos em forma de resumo no evento intitulado 3ª Mostra ObservaCampos, onde encontra-se disponível nos anais de resumos do evento.
 
 Durante o decorrer do projeto foi submetido e apresentado o trabalho intitulado “URBANIZAÇÃO NA ZONA COSTEIRA E SEU EFEITO NA BIOMASSA E COMPRIMENTO DE PEIXES DE ÁGUA DOCE” no Salão UFRGS 2020 Virtual: XXXII SALÃO DE INICIAÇÃO CIENTÍFICA DA UFRGS.
