@@ -1,4 +1,5 @@
-![BOLSA23](https://user-images.githubusercontent.com/84736761/120500829-84c65300-c397-11eb-8020-f9ec94b8f7b0.png)
+
+
 
 # Espécies invasoras
 Este relatório tem como objetivo discorrer sobre as atividades de pesquisa realizadas pelo aluno de graduação em Ciências Biológicas: Ênfases Biologia Marinha e Costeira, e Gestão Ambiental Marinha e Costeira, Otávio Gutierrez e Silva, beneficiário do programa PIBIC –CNPq/UFRGS no período de 08/2020 a 07/2021.  Este Plano de Atividades está vinculado ao projeto 29372 - Diagnóstico da importância para conservação de biodiversidade aquática, coordenado pelo Prof. Fernando Becker, com participação da Prof. Sandra Maria Hartz como pesquisadora colaboradora. A este projeto, foi finalizado em 2019 a tese de doutorado PPG- Ecologia/UFRGS (Diversidade de ictiofauna em lagoas costeiras na costa atlântica da América do Sul: padrões macroecológicos, conservação e mudanças climáticas) da aluna Taís de Fátima Ramos Guimarães, sob orientação da Prof. Sandra Maria Hartz, bem como foi desenvolvido o Trabalho de Conclusão de Curso do atual bolsista, Otávio Gutiérrez e Silva, aluno do Curso de Ciências Biológicas, Ênfase em Biologia Marinha da UFRGS. Especificamente para este relatório, o aluno de iniciação científica se concentrou no objetivo representatividade de espécies de peixes exóticas sobre os sistemas lóticos e lênticos do Estado do Rio Grande do Sul, relacionando o mesmo com Unidades de Conservação (UCs) existentes no Estado.
@@ -35,7 +36,8 @@ Figura 1 – Mapa do Rio Grande do Sul com a localização georreferenciada das 
   
   
   
-  
+  ![BOLSA23](https://user-images.githubusercontent.com/84736761/120501077-b2ab9780-c397-11eb-8435-ec57c06eaf94.png)
+
   
   
   
