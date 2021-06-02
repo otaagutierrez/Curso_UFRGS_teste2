@@ -22,14 +22,12 @@ Em relação as Ecorregiões aquáticas do Rio Grande do Sul (Figura 4), a Ecorr
 
  
  
-  
-  
-  
-  
-  
+
+ ![BOLSA](https://user-images.githubusercontent.com/84736761/120496364-e2f13700-c393-11eb-887c-28104497b48a.png)
+
   
 
-
+Figura 1 – Mapa do Rio Grande do Sul com a localização georreferenciada das ocorrências de peixes exóticos. Áreas em vermelho correspondem as Unidades de Conservação de Uso Sustentável. Áreas em roxo correspondem as Unidades de Conservação de Proteção Integral.
  
  
   
